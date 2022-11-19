@@ -163,7 +163,7 @@ void Game::Restart()
 
 	int ballDiametr = 40;
 
-	auto platform = new Platform("data/03-Breakout-Tiles.png", platformX, platformY, platformWidth, platformHeight);
+	auto platform = new Platform("data/56-Breakout-Tiles.png", platformX, platformY, platformWidth, platformHeight);
 	auto ball = new Ball("data/62-Breakout-Tiles.png", (screenWidth - ballDiametr) / 2, platformY - ballDiametr - 5, ballDiametr, ballDiametr);
 	auto brickManager = new BrickManager(5, 3, screenWidth, screenHeight);
 	objects.emplace_back(platform);
