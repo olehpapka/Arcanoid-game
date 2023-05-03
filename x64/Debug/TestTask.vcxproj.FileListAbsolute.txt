@@ -1,3 +1,0 @@
-E:\Олег\Visual Studio\TestTask\x64\Debug\TestTask.exe
-B:\Oleh\TestTask\x64\Debug\TestTask.exe
-C:\Users\Oleh\Documents\GitHub\Arcanoid-game\x64\Debug\TestTask.exe
